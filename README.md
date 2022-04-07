@@ -1,1 +1,1 @@
-bagussurbakti.git.io
+bagussurbakti.github.io
